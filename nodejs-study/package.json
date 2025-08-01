@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-study",
+  "version": "1.0.0",
+  "description": "리액트 스터디 - SE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyoreal/REACT_STUDY.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyoreal/REACT_STUDY/issues"
+  },
+  "homepage": "https://github.com/hyoreal/REACT_STUDY#readme",
+  "type": "module"
+}
